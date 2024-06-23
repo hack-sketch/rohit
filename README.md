@@ -24,6 +24,7 @@
 </a> -->
 
 <div>🎓 Data Science student at <a href="https://www.iitm.ac.in">Indian Institute of Technology, Madras</a></div>
+<div>🎓 Information Technology student at <a href="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</a></div>
 <!--<div>🧪 Associate Software Engineer, Data Science at <a href="https://www.efi.com/">Fiery (previously EFI)</a></div>
 <div>🌏 Bengaluru, India</div>
 <div>👉 <a href="https://ifkash.vercel.app">My Resume website</a></div>
