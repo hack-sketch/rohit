@@ -1,13 +1,13 @@
 <h2>Hi, I am Rohit 👋🏻</h2>
-<a href="https://hashnode.com/@hacksketch">
+<a href="https://hashnode.com/@hacksketch" target="_blank">
   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/rohitkumar932004">
+<a href="https://leetcode.com/u/rohitkumar932004" target="_blank">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rohit-choudhary786">
+<a href="https://www.linkedin.com/in/rohit-choudhary786" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 </a>
 
